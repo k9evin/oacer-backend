@@ -1,4 +1,4 @@
-package com.mkpang.oacer.model.dto.questionSubmit;
+package com.mkpang.oacer.judge.codesandbox.model;
 
 import lombok.Data;
 

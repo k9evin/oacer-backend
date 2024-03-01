@@ -10,7 +10,7 @@ import java.io.Serializable;
  * @author <a href="https://github.com/k9evin">Mingkai Pang</a>
  */
 @Data
-public class QuestionSubmitRequest implements Serializable {
+public class QuestionSubmitAddRequest implements Serializable {
 
     private static final long serialVersionUID = 1L;
     /**
